@@ -1,6 +1,6 @@
 ### Hi there  I'm VENOM
 
-[![Instagram Badge](https://img.shields.io/badge/rebaz.luqman.hamd-blueviolet?style=plastic-square&logo=instagram&logoColor=white&linkhttps://www.instagram.com/rebaz.luqman.hamad/)](https://www.instagram.com/mansur_bndyan/)
+[![Instagram Badge](https://img.shields.io/badge/rebaz.luqman.hamd-blueviolet?style=plastic-square&logo=instagram&logoColor=white&linkhttps://https://www.instagram.com/mansur_bndyan/)](https://www.instagram.com/mansur_bndyan/)
 [![Twitter Badge](https://img.shields.io/badge/rebazluqmanhamd-blue?style=plastic-square&logo=twitter&logoColor=white&link=https://www.twitter.com/codingpotter)](https://twitter.com/mansur_bndyan)
 
 ## ABOUT ME
